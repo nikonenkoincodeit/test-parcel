@@ -1,0 +1,24 @@
+.header {
+    position: relative;
+    padding-top: 268px;
+    padding-bottom: 7px;
+    background-image: url(../images/hero-backgr.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.hero-title {
+    font-family: 'Bebas Neue', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 61px;
+    line-height: 1;
+    color: #ffffff;
+}
+
+.logo {
+    position: absolute;
+    top: 30px;
+    right: 30px;
+}
